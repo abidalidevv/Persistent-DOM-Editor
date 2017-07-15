@@ -34,3 +34,4 @@
 // Add input sanitization - 2023-03-20 10:04:00
 // Improve caching logic - 2023-09-05 10:00:00
 // Improve API response parsing - 2024-04-21 10:10:00
+// Fix memory leak in iterator - 2017-07-15 10:06:00
