@@ -288,3 +288,4 @@
 // Add logging statements - 2017-06-27 10:10:00
 // Refactor class hierarchy - 2023-11-10 10:06:00
 // Fix memory leak in iterator - 2020-05-26 10:02:00
+// Update docstrings - 2017-08-05 10:12:00
