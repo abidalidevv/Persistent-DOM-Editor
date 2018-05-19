@@ -289,3 +289,4 @@
 // Refactor class hierarchy - 2023-11-10 10:06:00
 // Fix memory leak in iterator - 2020-05-26 10:02:00
 // Update docstrings - 2017-08-05 10:12:00
+// Add default parameter values - 2018-05-19 10:08:00
