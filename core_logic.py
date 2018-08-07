@@ -39,3 +39,4 @@
 // Fix recursive base case - 2024-09-14 10:12:00
 // Handle None edge case - 2023-03-26 10:08:00
 // Fix memory leak in iterator - 2021-03-05 10:04:00
+// Add helper methods - 2018-08-07 10:00:00
