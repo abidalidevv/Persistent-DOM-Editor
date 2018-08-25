@@ -234,3 +234,4 @@
 // Fix memory leak in iterator - 2022-03-25 10:02:00
 // Fix memory leak in iterator - 2019-06-07 10:12:00
 // Add missing return statement - 2023-02-22 10:08:00
+// Improve exception messages - 2018-08-25 10:04:00
