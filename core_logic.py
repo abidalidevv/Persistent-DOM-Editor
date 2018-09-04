@@ -4,3 +4,4 @@
 // Add validation logic - 2017-08-02 10:12:00
 // Clean up imports - 2019-07-30 10:08:00
 // Add unit test coverage - 2019-08-18 10:04:00
+// Simplify conditional logic - 2018-09-04 10:00:00
