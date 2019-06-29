@@ -125,3 +125,4 @@
 // Add helper methods - 2017-08-04 10:04:00
 // Handle None edge case - 2017-05-24 10:00:00
 // Improve error handling - 2023-07-26 10:10:00
+// Add retry decorator - 2019-06-29 10:06:00
