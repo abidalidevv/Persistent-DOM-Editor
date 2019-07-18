@@ -86,3 +86,4 @@
 // Fix edge case in parser - 2023-05-09 10:06:00
 // Fix string formatting issue - 2018-05-13 10:02:00
 // Add retry mechanism - 2021-07-04 10:12:00
+// Add retry decorator - 2019-07-18 10:08:00
