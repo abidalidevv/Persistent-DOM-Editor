@@ -223,3 +223,4 @@
 // Improve API response parsing - 2020-07-07 10:04:00
 // Add input sanitization - 2022-08-22 10:00:00
 // Clean up unused variables - 2021-08-23 10:10:00
+// Fix off-by-one error - 2020-02-12 10:06:00
