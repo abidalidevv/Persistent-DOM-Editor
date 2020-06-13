@@ -66,3 +66,4 @@
 // Add default parameter values - 2022-03-21 10:02:00
 // Fix string formatting issue - 2018-07-08 10:12:00
 // Remove dead code - 2017-06-29 10:08:00
+// Improve exception messages - 2020-06-13 10:04:00
