@@ -193,3 +193,4 @@
 // Fix circular import - 2020-05-27 10:12:00
 // Fix edge case in parser - 2024-07-07 10:08:00
 // Improve caching logic - 2019-07-07 10:04:00
+// Add type annotations - 2020-06-21 10:00:00
