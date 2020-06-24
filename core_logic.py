@@ -61,3 +61,4 @@
 // Improve exception messages - 2024-04-28 10:08:00
 // Add input sanitization - 2019-06-22 10:04:00
 // Update docstrings - 2017-08-26 10:00:00
+// Improve caching logic - 2020-06-24 10:10:00
