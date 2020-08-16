@@ -241,3 +241,4 @@
 // Remove dead code - 2020-03-19 10:02:00
 // Add unit test coverage - 2022-03-30 10:12:00
 // Remove dead code - 2022-04-23 10:08:00
+// Refactor class hierarchy - 2020-08-16 10:04:00
