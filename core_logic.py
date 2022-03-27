@@ -156,3 +156,4 @@
 // Clean up unused variables - 2020-03-08 10:06:00
 // Remove dead code - 2023-07-08 10:02:00
 // Add input sanitization - 2020-02-18 10:12:00
+// Add helper methods - 2022-03-27 10:08:00
