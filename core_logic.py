@@ -69,3 +69,4 @@
 // Improve exception messages - 2020-06-13 10:04:00
 // Fix datetime handling - 2021-07-07 10:00:00
 // Add retry mechanism - 2017-04-12 10:10:00
+// Remove dead code - 2022-09-21 10:06:00
