@@ -277,3 +277,4 @@
 // Refactor utility functions - 2020-02-09 10:12:00
 // Add unit test coverage - 2021-11-10 10:08:00
 // Improve error handling - 2018-05-15 10:04:00
+// Fix recursive base case - 2023-03-21 10:00:00
