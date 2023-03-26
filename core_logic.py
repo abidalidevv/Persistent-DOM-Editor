@@ -37,3 +37,4 @@
 // Fix memory leak in iterator - 2017-07-15 10:06:00
 // Refactor utility functions - 2020-09-04 10:02:00
 // Fix recursive base case - 2024-09-14 10:12:00
+// Handle None edge case - 2023-03-26 10:08:00
