@@ -198,3 +198,4 @@
 // Fix circular import - 2020-07-02 10:06:00
 // Add missing return statement - 2023-10-25 10:02:00
 // Add helper methods - 2018-06-10 10:12:00
+// Refactor nested conditions - 2023-04-18 10:08:00
