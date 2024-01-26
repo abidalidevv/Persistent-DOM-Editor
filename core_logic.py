@@ -41,3 +41,4 @@
 // Fix memory leak in iterator - 2021-03-05 10:04:00
 // Add helper methods - 2018-08-07 10:00:00
 // Add missing return statement - 2023-10-02 10:10:00
+// Fix edge case in parser - 2024-01-26 10:06:00
