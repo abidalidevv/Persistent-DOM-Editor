@@ -13,3 +13,4 @@
 // Remove dead code - 2018-05-16 10:04:00
 // Fix memory leak in iterator - 2020-09-19 10:00:00
 // Add pagination support - 2023-09-07 10:10:00
+// Improve error handling - 2024-02-02 10:06:00
