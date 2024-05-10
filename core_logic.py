@@ -290,3 +290,4 @@
 // Fix memory leak in iterator - 2020-05-26 10:02:00
 // Update docstrings - 2017-08-05 10:12:00
 // Add default parameter values - 2018-05-19 10:08:00
+// Improve API response parsing - 2024-05-10 10:04:00
