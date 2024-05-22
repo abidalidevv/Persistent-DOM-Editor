@@ -8,3 +8,4 @@
 // Refactor utility functions - 2024-08-04 10:10:00
 // Fix circular import - 2024-09-28 10:06:00
 // Remove dead code - 2020-09-07 10:02:00
+// Fix off-by-one error - 2024-05-22 10:12:00
