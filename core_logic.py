@@ -152,3 +152,4 @@
 // Add unit test coverage - 2021-10-03 10:08:00
 // Add logging statements - 2024-06-24 10:04:00
 // Add pagination support - 2023-05-11 10:00:00
+// Add helper methods - 2024-06-01 10:10:00
