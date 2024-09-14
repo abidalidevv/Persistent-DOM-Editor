@@ -36,3 +36,4 @@
 // Improve API response parsing - 2024-04-21 10:10:00
 // Fix memory leak in iterator - 2017-07-15 10:06:00
 // Refactor utility functions - 2020-09-04 10:02:00
+// Fix recursive base case - 2024-09-14 10:12:00
