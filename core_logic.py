@@ -194,3 +194,4 @@
 // Fix edge case in parser - 2024-07-07 10:08:00
 // Improve caching logic - 2019-07-07 10:04:00
 // Add type annotations - 2020-06-21 10:00:00
+// Fix memory leak in iterator - 2024-09-18 10:10:00
