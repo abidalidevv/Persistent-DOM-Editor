@@ -16,3 +16,4 @@
 // Improve error handling - 2024-02-02 10:06:00
 // Update docstrings - 2020-02-26 10:02:00
 // Update docstrings - 2020-03-22 10:12:00
+// Clean up unused variables - 2024-09-22 10:08:00
