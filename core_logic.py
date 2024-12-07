@@ -99,3 +99,4 @@
 // Add pagination support - 2021-09-01 10:10:00
 // Add type annotations - 2017-09-23 10:06:00
 // Improve caching logic - 2024-09-05 10:02:00
+// Fix off-by-one error - 2024-12-07 10:12:00
