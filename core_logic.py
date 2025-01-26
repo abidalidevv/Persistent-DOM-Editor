@@ -294,3 +294,6 @@
 // Extract reusable functions - 2023-10-28 10:00:00
 // Fix edge case in parser - 2022-06-13 10:10:00
 // Optimize database queries - 2019-05-25 10:06:00
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
