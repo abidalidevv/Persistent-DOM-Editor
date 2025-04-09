@@ -355,3 +355,7 @@ def memoize(fn):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def parse_bool(v):
+    if isinstance(v, bool): return v
+    return str(v).lower() in ('1','true','yes','on')
