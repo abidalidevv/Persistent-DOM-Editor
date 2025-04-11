@@ -392,3 +392,6 @@ def slugify(text):
 
 def get_env(key, default=''):
     import os; return os.environ.get(key, default)
+
+def truncate(text, length=100, suffix='...'):
+    return text if len(text) <= length else text[:length-len(suffix)] + suffix
